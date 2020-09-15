@@ -1,0 +1,89 @@
+[
+    {
+        "callback_url": "",
+        "api_code": "",
+        "api_secret": "",
+        "description": "deposit callback sample",
+        "callback": {
+            "type": 1,
+            "serial": 90000070965,
+            "order_id": "",
+            "currency": "ETH",
+            "txid": "0x5a4daf95bedb34eca519840087e4afcba053b96fa8003cc20503e4a9b2f37a6f",
+            "block_height": 8243586,
+            "tindex": 30,
+            "vout_index": 0,
+            "amount": "500000000000000000",
+            "fees": "504000000000000",
+            "memo": "",
+            "broadcast_at": 1594091117,
+            "chain_at": 1594091117,
+            "from_address": "0x8382Cc1B05649AfBe179e341179fa869C2A9862b",
+            "to_address": "0x3939D6ECC5ccc6709D47801246B99E46159bac43",
+            "wallet_id": 60,
+            "addon": {
+            },
+            "decimal": 18
+        }
+    },
+    {
+        "callback_url": "",
+        "api_code": "",
+        "api_secret": "",
+        "description": "collection callback sample",
+        "callback": {
+            "type": 3,
+            "serial": 90000000624,
+            "order_id": "",
+            "currency": "ETH",
+            "txid": "0x321470cf6346411576cf3e4306ecf762533a3fdd8b25095e42a105af3bb09380",
+            "block_height": 8553037,
+            "tindex": 7,
+            "vout_index": 0,
+            "amount": "499832000000000000",
+            "fees": "168000000000000",
+            "memo": "",
+            "broadcast_at": 1598236600,
+            "chain_at": 1598236600,
+            "from_address": "0x087f86Db81b288B853c84afe1ca1EcA17dA7D4DE",
+            "to_address": "0x79D6660b2aB1d37AD5D11C2ca2B3EBba7Efd13F6",
+            "wallet_id": 5,
+            "addon": {
+                "fee_decimal": 18
+            },
+            "decimal": 18,
+            "currency_bip44": 60,
+            "token_address": ""
+        }
+    },
+    {
+        "callback_url": "",
+        "api_code": "",
+        "api_secret": "",
+        "description": "withdrawal callback sample",
+        "callback": {
+            "type": 2,
+            "serial": 90000000626,
+            "order_id": "1_81",
+            "currency": "ETH",
+            "txid": "0xce5e755dcf117d76e5f550be440541a633a4ceacf59ab9565a6798893d776f2e",
+            "block_height": 8562355,
+            "tindex": 32,
+            "vout_index": 0,
+            "amount": "1000000000000000",
+            "fees": "21000000000000",
+            "memo": "",
+            "broadcast_at": 1598357112,
+            "chain_at": 1598357112,
+            "from_address": "0xaa0cA2f9bA3A33a915a27e289C9719adB2ad7d73",
+            "to_address": "0x79D6660b2aB1d37AD5D11C2ca2B3EBba7Efd13F6",
+            "wallet_id": 2,
+            "addon": {
+                "fee_decimal": 18
+            },
+            "decimal": 18,
+            "currency_bip44": 60,
+            "token_address": ""
+        }
+    }
+]
