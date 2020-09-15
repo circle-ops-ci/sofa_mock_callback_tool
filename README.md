@@ -8,7 +8,7 @@
 
 	[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/0e09d7161148480ed0a9)
 
-- Download the callback [data template JSON file](https://github.com/CYBAVO/SOFA_MOCK_CALLBACK_TOOL/blob/master/data/).
+- Download the callback [data template JSON file](https://github.com/CYBAVO/SOFA_MOCK_CALLBACK_TOOL/blob/master/template/mock-callback-data-template.json).
 
 - Fill up the `callback_url`, `api_code` and `api_secret` with the test data.
 
