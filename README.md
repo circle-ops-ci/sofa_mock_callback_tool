@@ -6,7 +6,7 @@
 
 - Import the Postman collection from the following button.
 
-	[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/0e09d7161148480ed0a9)
+	[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/648921209724ab38f951?action=collection%2Fimport)
 
 - Download the callback [data template JSON file](https://github.com/CYBAVO/SOFA_MOCK_CALLBACK_TOOL/blob/master/template/mock-callback-data-template.json).
 
